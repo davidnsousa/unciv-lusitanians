@@ -24,7 +24,7 @@
     "hateHello": "What do you want from us?",
     "tradeRequest": "Perhaps there is something of value to discuss.",
     "uniques": [
-      "When defeating a [Barbarian] unit, earn [25] Gold and recruit it <with [100]% chance>",
+      "When defeating a [Barbarian] unit, earn [0] Gold and recruit it",
       "When conquering an encampment, earn [75] Gold and recruit a Barbarian unit",
       "[-25]% Production when constructing [Military] units [in all cities] <before adopting [Professional Army]>",
       "[-50]% Production when constructing [Water] units [in all cities]"
