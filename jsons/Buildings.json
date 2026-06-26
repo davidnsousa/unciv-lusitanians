@@ -8,8 +8,10 @@
     "requiredTech": "Bronze Working",
     "uniques": [
       "New [Military] units start with [15] XP [in this city]",
-      "[+1 Production] from [Camp] improvements [in this city]",
-      "[+1 Production] from [Pasture] improvements [in this city]"
+      "[+1 Production] from [Furs] tiles [in this city]",
+      "[+1 Production] from [Deer] tiles [in this city]",
+      "[+1 Production] from [Cattle] tiles [in this city]",
+      "[+1 Production] from [Horses] tiles [in this city]"
     ]
   }
 ]
