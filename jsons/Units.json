@@ -2,7 +2,7 @@
   {
     "name": "Lusitanian Raider",
     "replaces": "Warrior",
-    "uniqueTo": "Lusitanians",
+    "uniqueTo": "Lusitania",
     "unitType": "Melee",
     "movement": 2,
     "strength": 6,
