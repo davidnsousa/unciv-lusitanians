@@ -8,10 +8,8 @@
     "strength": 6,
     "cost": 40,
     "uniques": [
-      "[+25]% Strength <in [Hills] tiles>",
-      "[+25]% Strength <in [Forest] tiles>",
-      "[+25]% Strength <when defending> <in [Hills] tiles>",
-      "[+25]% Strength <when defending> <in [Forest] tiles>"
+      "[+25]% Strength <in [Rough terrain] tiles>",
+      "[+25]% Strength <when defending> <in [Rough terrain] tiles>"
     ]
   }
 ]
