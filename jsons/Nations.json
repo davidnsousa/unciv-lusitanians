@@ -10,6 +10,8 @@
       "Tapori", "Coniaci", "Lancienses", "Igaeditani", "Interamici",
       "Araui", "Banienses", "Ocelenses", "Aravi", "Meidubrigenses"
     ],
+    "spyNames": ["Viriato", "Apuleius", "Caudinus", "Tautalus", "Caisaros", "Moericco", "Punicus", "Atinius", "Curius", "Minurus"],
+    "preferredVictoryType": "Domination",
     "startIntroPart1": "From the mountains of western Iberia, the Lusitanians defied the most powerful empire the world had ever seen. Masters of guerrilla warfare, they struck without warning and vanished into the hills before Rome could answer. Their leader, Viriato, rose from shepherd to commander, undefeated in open battle, betrayed only by those he trusted.",
     "startIntroPart2": "I am Viriato. I have no palace, no senate, no legions of marble. I have the mountains, and I have my people. Rome calls us barbarians — let them. We will show them what barbarians do to empires.",
     "declaringWar": "You have made a grave mistake. The mountains remember every Roman who entered them. None returned.",
@@ -25,6 +27,9 @@
       "When conquering an encampment, earn [75] Gold and recruit a Barbarian unit",
       "[-25]% Production when constructing [Military] units [in all cities] <before adopting [Professional Army]>",
       "[-50]% Production when constructing [Water] units [in all cities]"
+    ],
+    "civilopediaText": [
+      {"text": "The Lusitanians were an Indo-European people of the western Iberian Peninsula, inhabiting what is today central Portugal and parts of western Spain. Fierce and independent, they resisted Roman conquest for decades, mastering guerrilla tactics in the rugged terrain of their homeland. Their greatest leader, Viriato, rose from humble origins to become the most dangerous enemy Rome faced in Iberia — undefeated in battle, he was ultimately betrayed and assassinated in 139 BC at Roman instigation. The Lusitanians left no written records of their own, but their spirit endures in the land and people of Portugal."}
     ]
   }
 ]

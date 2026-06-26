@@ -12,6 +12,9 @@
       "[+1 Production] from [Deer] tiles [in this city]",
       "[+1 Production] from [Cattle] tiles [in this city]",
       "[+1 Production] from [Horses] tiles [in this city]"
+    ],
+    "civilopediaText": [
+      {"text": "The center of Lusitanian political and military life. Tribal elders gathered to decide matters of war, tribute, and alliance. It was here that warriors were tested, promoted, and sent into battle. The Council also oversaw the herds and hunting grounds that sustained the confederation, making it both a seat of power and an engine of war."}
     ]
   }
 ]

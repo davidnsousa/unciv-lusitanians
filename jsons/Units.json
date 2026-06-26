@@ -10,6 +10,9 @@
     "uniques": [
       "[+25]% Strength <in [Rough terrain] tiles>",
       "[+25]% Strength <when defending> <in [Rough terrain] tiles>"
+    ],
+    "civilopediaText": [
+      {"text": "The backbone of Lusitanian warfare. Neither a professional soldier nor a simple tribesman, the Lusitanian Raider was a warrior shaped by the mountains — swift, brutal, and impossible to pin down. Armed with a short sword and javelin, Raiders struck supply lines, ambushed columns, and vanished before Rome could respond. Those who survived grew into legends."}
     ]
   }
 ]
