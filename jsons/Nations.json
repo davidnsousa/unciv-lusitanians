@@ -10,6 +10,7 @@
       "Tapori", "Coniaci", "Lancienses", "Igaeditani", "Interamici",
       "Araui", "Banienses", "Ocelenses", "Aravi", "Meidubrigenses"
     ],
+    "startBias": ["Hill", "Forest", "Avoid [Coast]"],
     "spyNames": ["Viriato", "Apuleius", "Caudinus", "Tautalus", "Caisaros", "Moericco", "Punicus", "Atinius", "Curius", "Minurus"],
     "preferredVictoryType": "Domination",
     "startIntroPart1": "From the mountains of western Iberia, the Lusitanians defied the most powerful empire the world had ever seen. Masters of guerrilla warfare, they struck without warning and vanished into the hills before Rome could answer. Their leader, Viriato, rose from shepherd to commander, undefeated in open battle, betrayed only by those he trusted.",
