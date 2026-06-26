@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Lusitanians",
+    "leaderName": "Viriato",
+    "adjective": ["Lusitanian"],
+    "outerColor": [200, 16, 46],
+    "innerColor": [255, 215, 0],
+    "cities": [
+      "Lusitani", "Vettones", "Belitani", "Turduli", "Celtici",
+      "Tapori", "Coniaci", "Lancienses", "Igaeditani", "Interamici",
+      "Araui", "Banienses", "Ocelenses", "Aravi", "Meidubrigenses"
+    ],
+    "declaringWar": "You have made a grave mistake. The mountains remember every Roman who entered them. None returned.",
+    "introduction": "I am Viriato, voice of the free tribes of Lusitania. We are not a nation built of stone and marble — we are born of the mountain wind. What do you want from us?",
+    "attacked": "You attack us in our own hills? Then you will die in our hills. Every rock, every ravine, every forest path belongs to us.",
+    "defeated": "They could not defeat us in battle. They bought our deaths instead. Remember that, when you celebrate your victory.",
+    "denounced": "You have chosen poorly. The mountains have long memories.",
+    "neutralHello": "The mountains are quiet today. Let us keep it that way.",
+    "hateHello": "What do you want from us?",
+    "tradeRequest": "Perhaps there is something of value to discuss.",
+    "uniques": [
+      "When defeating a [Barbarian] unit, earn [0] Gold and recruit it",
+      "When conquering an encampment, earn [75] Gold and recruit a Barbarian unit",
+      "[-25]% Production when constructing [Military] units [in all cities] <before adopting [Professional Army]>",
+      "[-50]% Production when constructing [Water] units [in all cities]"
+    ]
+  }
+]

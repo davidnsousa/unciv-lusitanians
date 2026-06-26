@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tribal Council",
+    "replaces": "Barracks",
+    "uniqueTo": "Lusitanians",
+    "cost": 75,
+    "gold": 2,
+    "requiredTech": "Bronze Working",
+    "uniques": [
+      "New [Military] units start with [15] XP [in this city]",
+      "[+1 Production] from [Camp] tiles [in this city]",
+      "[+1 Production] from [Pasture] tiles [in this city]"
+    ]
+  }
+]

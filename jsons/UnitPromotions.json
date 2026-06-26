@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Fearless Raider",
+    "prerequisites": [],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[+80]% Strength",
+      "Only available <after discovering [Iron Working]>"
+    ]
+  },
+  {
+    "name": "Savage Raider",
+    "prerequisites": ["Fearless Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[+60]% Strength",
+      "Only available <after discovering [Steel]>"
+    ]
+  },
+  {
+    "name": "Brutal Raider",
+    "prerequisites": ["Savage Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[+50]% Strength",
+      "Only available <after discovering [Gunpowder]>"
+    ]
+  },
+  {
+    "name": "Veteran Raider",
+    "prerequisites": ["Brutal Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[+50]% Strength",
+      "Only available <after discovering [Rifling]>"
+    ]
+  },
+  {
+    "name": "Elite Raider",
+    "prerequisites": ["Veteran Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[+30]% Strength",
+      "Only available <after discovering [Replaceable Parts]>"
+    ]
+  },
+  {
+    "name": "The Undying",
+    "prerequisites": ["Elite Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[+40]% Strength",
+      "Only available <after discovering [Combustion]>"
+    ]
+  },
+  {
+    "name": "Iron Will",
+    "prerequisites": ["Fearless Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "Ignores terrain cost"
+    ]
+  },
+  {
+    "name": "Blood Price",
+    "prerequisites": ["Savage Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "Heals [25] damage if it kills a unit"
+    ]
+  },
+  {
+    "name": "Swift Strike",
+    "prerequisites": ["Brutal Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "Can move after attacking"
+    ]
+  },
+  {
+    "name": "Ghost Step",
+    "prerequisites": ["Elite Raider"],
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[+1] Sight",
+      "Invisible to non-adjacent units"
+    ]
+  }
+]
